@@ -141,14 +141,25 @@ footer{
 }
 
 .galeria-ciclismo{
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 5%;
+	margin-right: 5%;
+	background: rgb(10, 10, 10);
 	
-	background: #999;
 	
 }
 
 .carousel-item img{
 
-	 width:50%;
+	width:50%;
 	height:50%; }
+
+	.card-img-top{
+		padding-top: 5px;
+	}
+
+#logo img{
+	margin-top:10px;
+	margin-right:2%;
+	max-width:12%; 
+	
+}	
