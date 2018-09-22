@@ -1,0 +1,520 @@
+[21-Sep-2018 20:25:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:25:50 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:25:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:25:54 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:25:55 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:25:55 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:28:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:28:10 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:29:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:29:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:29:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:29:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:29:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:29:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:29:44 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:30:29 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:30:30 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 3
+[21-Sep-2018 20:32:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:33:10 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:33:12 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:34:07 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:34:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:38:16 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:38:52 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:38:59 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:39:37 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:44:50 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:44:53 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:44:54 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:44:54 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:44:54 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:44:54 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:44:55 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:44:55 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:45:35 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:45:39 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:52:33 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:52:36 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:52:38 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:52:44 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 20:53:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:00:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 21
+[21-Sep-2018 21:01:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 21
+[21-Sep-2018 21:01:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 21
+[21-Sep-2018 21:03:10 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 31
+[21-Sep-2018 21:03:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 31
+[21-Sep-2018 21:03:13 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 31
+[21-Sep-2018 21:03:13 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 31
+[21-Sep-2018 21:03:13 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 31
+[21-Sep-2018 21:04:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:04:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:05:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:05:30 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:05:31 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:05:32 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:05:32 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:05:33 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:05:33 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:05:33 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:05:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:00 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:21 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:50 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:52 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:52 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:53 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:53 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:06:53 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:07:34 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:08:02 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:08:38 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:08:57 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:08:58 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:08:58 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:08:59 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:08:59 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:09:45 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:09:45 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:11:24 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 4
+[21-Sep-2018 21:13:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:13:56 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:13:57 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:13:57 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:13:58 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:13:58 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:14:39 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:14:40 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:14:41 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:14:41 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:14:41 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:14:41 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:15:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 10
+[21-Sep-2018 21:16:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:16:39 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:16:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:16:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:16:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:16:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:16:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/xiontech.co/pruebaPHP.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:17:16 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:17:45 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:17:46 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:17:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:17:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:17:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:17:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:17:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:21:26 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:24:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:24:27 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:24:27 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:26:36 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:27:19 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:27:19 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:27:51 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:27:51 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:28:37 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:28:37 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:28:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:28:37 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:29:47 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:29:47 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:29:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:29:47 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:30:29 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:30:29 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:30:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:30:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:30:30 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:30:30 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:30:30 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:30:30 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:30:31 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:30:31 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:30:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:30:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:16 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:16 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:32:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:24 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:24 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:25 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:25 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:25 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:46:28 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:46:28 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:46:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:46:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:33 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:35 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:35 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:47:35 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:47:35 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:47:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:47:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:48:16 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:48:16 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:48:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:48:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:48:17 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:48:17 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:48:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:48:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 18
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 24
+[21-Sep-2018 21:48:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 36
+[21-Sep-2018 21:48:54 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 22:08:51 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 22:08:52 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 22:08:52 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 22:08:52 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 22:08:52 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 22:08:52 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 22:08:52 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 22:11:54 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:41:59 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:45:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:48:01 Etc/GMT] PHP Notice:  Undefined variable: basedatos in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:48:01 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:48:04 Etc/GMT] PHP Notice:  Undefined variable: basedatos in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:48:04 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:50:27 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:53:14 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:53:22 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 11
+[21-Sep-2018 23:57:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 55
+[21-Sep-2018 23:58:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 55
+[22-Sep-2018 00:00:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 52
+[22-Sep-2018 00:00:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 52
+[22-Sep-2018 00:04:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 52
+[22-Sep-2018 00:06:01 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/phpprueba.php on line 5
+[22-Sep-2018 00:06:34 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/phpprueba.php on line 5
+[22-Sep-2018 00:08:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/phpprueba.php on line 5
+[22-Sep-2018 00:11:39 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/phpprueba.php on line 5
+[22-Sep-2018 00:16:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/manzover/public_html/xiontech.co/phpprueba.php on line 14
+[22-Sep-2018 00:18:08 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '199.79.62.243:3306' (2) in /home/manzover/public_html/xiontech.co/phpprueba.php on line 5
+[22-Sep-2018 00:18:46 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/phpprueba.php on line 5
+[22-Sep-2018 00:20:50 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/phpprueba.php on line 5
+[22-Sep-2018 00:20:53 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/manzover/public_html/xiontech.co/phpprueba.php on line 5
+[22-Sep-2018 00:22:13 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'manzover'@'bh-27.webhostbox.net' (using password: YES) in /home/manzover/public_html/xiontech.co/phpprueba.php on line 5
+[22-Sep-2018 00:24:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 52
+[22-Sep-2018 00:27:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/phpprueba.php on line 16
+[22-Sep-2018 00:28:30 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/manzover/public_html/xiontech.co/phpprueba.php on line 50
+[22-Sep-2018 00:30:19 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/manzover/public_html/xiontech.co/phpprueba.php on line 45
