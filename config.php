@@ -1,10 +1,10 @@
 <?php
 
 $db = [
-    'host' => 'localhost',
-    'username' => 'root',
-    'password' => '',
-    'db' => 'blog' //Cambiar al nombre de tu base de datos
+    'host' => '199.79.62.243',
+    'username' => 'manzover_root',
+    'password' => 'Cangrejo76',
+    'db' => 'manzover_xiontech' //Cambiar al nombre de tu base de datos
 ];
 
 ?>
