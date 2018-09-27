@@ -6,7 +6,11 @@ include "utils.php";
 $dbConn =  connect($db);
 
 /*
+<<<<<<< HEAD
   listar todos los posts o solo uno
+=======
+  listar todos los post o solo uno
+>>>>>>> 6bf28ed152b9e3c7204e82aa9fbf3cb874287fe5
  */
 if ($_SERVER['REQUEST_METHOD'] == 'GET')
 {
@@ -19,6 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET')
       header("HTTP/1.1 200 OK");
       echo json_encode(  $sql->fetch(PDO::FETCH_ASSOC)  );
       exit();
+<<<<<<< HEAD
       }
       elseif(isset($_GET['category'])){
         $sql = $dbConn->prepare("SELECT * FROM post where category=:category");
@@ -31,6 +36,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET')
 
 
       }
+=======
+	  }
+>>>>>>> 6bf28ed152b9e3c7204e82aa9fbf3cb874287fe5
     else {
       //Mostrar lista de post
       $sql = $dbConn->prepare("SELECT * FROM post");
@@ -42,6 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET')
 	}
 }
 
+<<<<<<< HEAD
 // Crear un nuevo post / o actualizarlo si ya tiene ID
 if ($_SERVER['REQUEST_METHOD'] == 'POST')
 {
@@ -84,6 +93,18 @@ echo($input['id']." -- ".$input['title']." -- ".$input['content']);
    
    $statement = $dbConn->prepare($sql);
     bindAllValues($statement, $input);
+=======
+// Crear un nuevo post
+if ($_SERVER['REQUEST_METHOD'] == 'POST')
+{
+    $input = $_POST;
+    $sql = "INSERT INTO post
+          (title, status, content, user_id)
+          VALUES
+          (:title, :status, :content, :user_id)";
+    $statement = $dbConn->prepare($sql);
+    bindAllValues($statement, $input);
+>>>>>>> 6bf28ed152b9e3c7204e82aa9fbf3cb874287fe5
     $statement->execute();
     $postId = $dbConn->lastInsertId();
     if($postId)
@@ -92,14 +113,22 @@ echo($input['id']." -- ".$input['title']." -- ".$input['content']);
       header("HTTP/1.1 200 OK");
       echo json_encode($input);
       exit();
+<<<<<<< HEAD
      }
     }
+=======
+	 }
+>>>>>>> 6bf28ed152b9e3c7204e82aa9fbf3cb874287fe5
 }
 
 //Borrar
 if ($_SERVER['REQUEST_METHOD'] == 'DELETE')
 {
+<<<<<<< HEAD
  $id = $_GET['id'];
+=======
+	$id = $_GET['id'];
+>>>>>>> 6bf28ed152b9e3c7204e82aa9fbf3cb874287fe5
   $statement = $dbConn->prepare("DELETE FROM post where id=:id");
   $statement->bindValue(':id', $id);
   $statement->execute();
@@ -110,6 +139,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'DELETE')
 //Actualizar
 if ($_SERVER['REQUEST_METHOD'] == 'PUT')
 {
+<<<<<<< HEAD
     $input = $_GET['id'];
     
 
@@ -120,6 +150,13 @@ echo($output['id']." -- ".$output['title']." -- ".$output['content']);
    // echo("iMPRESION PARAMETROS=".:title." - ". :status." - ".:content);
   $sql = 
            "
+=======
+    $input = $_GET;
+    $postId = $input['id'];
+    $fields = getParams($input);
+
+    $sql = "
+>>>>>>> 6bf28ed152b9e3c7204e82aa9fbf3cb874287fe5
           UPDATE post
           SET $fields
           WHERE id='$postId'
