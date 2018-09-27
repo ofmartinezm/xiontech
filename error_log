@@ -518,7 +518,6 @@ Stack trace:
 [22-Sep-2018 00:27:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/phpprueba.php on line 16
 [22-Sep-2018 00:28:30 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/manzover/public_html/xiontech.co/phpprueba.php on line 50
 [22-Sep-2018 00:30:19 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/manzover/public_html/xiontech.co/phpprueba.php on line 45
-<<<<<<< HEAD
 [22-Sep-2018 01:09:33 Etc/GMT] PHP Notice:  Undefined index: id in /home/manzover/public_html/xiontech.co/post.php on line 70
 [22-Sep-2018 01:09:33 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=''' at line 3 in /home/manzover/public_html/xiontech.co/post.php:82
 Stack trace:
@@ -1220,5 +1219,3 @@ Stack trace:
 [25-Sep-2018 20:50:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70
 [25-Sep-2018 20:51:38 Etc/GMT] PHP Parse error:  syntax error, unexpected ''click option'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70
 [25-Sep-2018 20:51:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ''click option'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70
-=======
->>>>>>> 6bf28ed152b9e3c7204e82aa9fbf3cb874287fe5
