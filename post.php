@@ -19,7 +19,18 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET')
       header("HTTP/1.1 200 OK");
       echo json_encode(  $sql->fetch(PDO::FETCH_ASSOC)  );
       exit();
-	  }
+      }
+      elseif(isset($_GET['category'])){
+        $sql = $dbConn->prepare("SELECT * FROM post where category=:category");
+        $sql->bindValue(':category', $_GET['category']);
+        $sql->execute();
+        $sql->setFetchMode(PDO::FETCH_ASSOC);
+        header("HTTP/1.1 200 OK");
+        echo json_encode( $sql->fetchAll()  );
+        exit();
+
+
+      }
     else {
       //Mostrar lista de post
       $sql = $dbConn->prepare("SELECT * FROM post");
@@ -39,9 +50,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
     echo("ESTA ES MI VARIABLE ACTUALIZA=:actualiza");
     echo("ESTA ES MI VARIABLE 1ACTUALIZA=".$input['actualiza']." ;id=".$input['id']);
     
-
-   
-   if($input['id']!=""){
+       
+   if(isset($input['id'])){
         
 
     $postId = $input['id'];

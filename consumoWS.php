@@ -167,7 +167,7 @@
 
 
 //funciona actualización de post
-$data = array("title" => "EUREKA!!! prueba actualiza con POST desde php",
+/*$data = array("title" => "EUREKA!!! prueba actualiza con POST desde php",
             "status" => "draft",
             "content" => "II POST ACTUALIZA... Aliquam at iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam congue, est et sagittis dapibus, libero dui fringilla eros, 
             in mollis odio nisi id nisi.",
@@ -179,6 +179,8 @@ $data = array("title" => "EUREKA!!! prueba actualiza con POST desde php",
    curl_setopt($cliente, CURLOPT_CUSTOMREQUEST, "POST"); 
    curl_setopt($cliente, CURLOPT_POSTFIELDS, http_build_query($data));
    curl_exec($cliente);
-   curl_close($cliente);
+   curl_close($cliente);*/
+
+   
 
 ?>

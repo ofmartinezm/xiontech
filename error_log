@@ -1020,3 +1020,202 @@ Stack trace:
 #0 /home/manzover/public_html/xiontech.co/post.php(63): PDOStatement->execute()
 #1 {main}
   thrown in /home/manzover/public_html/xiontech.co/post.php on line 63
+[24-Sep-2018 23:13:06 Etc/GMT] PHP Notice:  Undefined index: actualiza in /home/manzover/public_html/xiontech.co/post.php on line 40
+[24-Sep-2018 23:15:28 Etc/GMT] PHP Notice:  Undefined index: actualiza in /home/manzover/public_html/xiontech.co/post.php on line 40
+[24-Sep-2018 23:16:25 Etc/GMT] PHP Notice:  Undefined index: actualiza in /home/manzover/public_html/xiontech.co/post.php on line 40
+[24-Sep-2018 23:19:40 Etc/GMT] PHP Notice:  Undefined index: actualiza in /home/manzover/public_html/xiontech.co/post.php on line 40
+[25-Sep-2018 14:34:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/manzover/public_html/xiontech.co/category.php on line 23
+[25-Sep-2018 14:36:35 Etc/GMT] PHP Notice:  Undefined variable: dbConn in /home/manzover/public_html/xiontech.co/category.php on line 18
+[25-Sep-2018 14:36:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/manzover/public_html/xiontech.co/category.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/category.php on line 18
+[25-Sep-2018 14:38:51 Etc/GMT] PHP Notice:  Undefined variable: dbConn in /home/manzover/public_html/xiontech.co/category.php on line 18
+[25-Sep-2018 14:38:51 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/manzover/public_html/xiontech.co/category.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/category.php on line 18
+[25-Sep-2018 15:51:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 96
+[25-Sep-2018 15:51:52 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 89
+[25-Sep-2018 15:54:40 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 90
+[25-Sep-2018 15:54:40 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 90
+[25-Sep-2018 15:54:40 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 90
+[25-Sep-2018 15:57:23 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 90
+[25-Sep-2018 15:58:01 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 90
+[25-Sep-2018 16:00:12 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 90
+[25-Sep-2018 16:00:14 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 90
+[25-Sep-2018 16:03:03 Etc/GMT] PHP Notice:  Use of undefined constant category - assumed 'category' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:07:44 Etc/GMT] PHP Notice:  Use of undefined constant category - assumed 'category' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:08:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ',' or ')' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:09:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '+=' (T_PLUS_EQUAL) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:10:25 Etc/GMT] PHP Notice:  Use of undefined constant category - assumed 'category' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 95
+[25-Sep-2018 16:17:08 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 91
+[25-Sep-2018 16:19:10 Etc/GMT] PHP Warning:  Illegal string offset 'category' in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 95
+[25-Sep-2018 16:25:21 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:25:21 Etc/GMT] PHP Notice:  Undefined variable: catos in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:30:27 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:30:27 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:30:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:30:27 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:30:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:30:27 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:30:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:30:27 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:30:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:19 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:31:19 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:19 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:19 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:19 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:19 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:19 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:19 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:19 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:31:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:33:31 Etc/GMT] PHP Notice:  Undefined variable: miarray in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:33:31 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:33:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:33:31 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:33:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:35:16 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:35:16 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:35:16 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:35:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/manzover/public_html/xiontech.co/pruebaPHP.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:35:19 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:35:19 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:35:19 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:35:19 Etc/GMT] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/manzover/public_html/xiontech.co/pruebaPHP.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:36:16 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:36:16 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:36:16 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:36:16 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:36:16 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:36:16 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:36:16 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:36:16 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:36:16 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:37:14 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:37:14 Etc/GMT] PHP Notice:  Undefined variable: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:37:14 Etc/GMT] PHP Notice:  Undefined property: stdClass::$ in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:37:14 Etc/GMT] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 94
+[25-Sep-2018 16:38:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 93
+[25-Sep-2018 16:40:15 Etc/GMT] PHP Notice:  Array to string conversion in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 88
+[25-Sep-2018 16:44:08 Etc/GMT] PHP Notice:  Undefined index: category in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 87
+[25-Sep-2018 16:44:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 87
+[25-Sep-2018 16:44:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/manzover/public_html/xiontech.co/pruebaPHP.php on line 87
+[25-Sep-2018 17:02:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/manzover/public_html/xiontech.co/post.php on line 54
+[25-Sep-2018 17:03:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/manzover/public_html/xiontech.co/post.php on line 54
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Warning:  Illegal string offset 'id' in /home/manzover/public_html/xiontech.co/post.php on line 116
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Warning:  Illegal string offset 'id' in /home/manzover/public_html/xiontech.co/post.php on line 117
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Warning:  Illegal string offset 'title' in /home/manzover/public_html/xiontech.co/post.php on line 117
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Warning:  Illegal string offset 'content' in /home/manzover/public_html/xiontech.co/post.php on line 117
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/utils.php on line 23
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/utils.php on line 33
+[25-Sep-2018 17:04:07 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id='6'' at line 3 in /home/manzover/public_html/xiontech.co/post.php:131
+Stack trace:
+#0 /home/manzover/public_html/xiontech.co/post.php(131): PDOStatement->execute()
+#1 {main}
+  thrown in /home/manzover/public_html/xiontech.co/post.php on line 131
+[25-Sep-2018 17:04:27 Etc/GMT] PHP Notice:  Undefined index: id in /home/manzover/public_html/xiontech.co/post.php on line 113
+[25-Sep-2018 17:04:27 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:04:27 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:04:27 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:04:27 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/utils.php on line 23
+[25-Sep-2018 17:04:27 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/utils.php on line 33
+[25-Sep-2018 17:04:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=''' at line 3 in /home/manzover/public_html/xiontech.co/post.php:131
+Stack trace:
+#0 /home/manzover/public_html/xiontech.co/post.php(131): PDOStatement->execute()
+#1 {main}
+  thrown in /home/manzover/public_html/xiontech.co/post.php on line 131
+[25-Sep-2018 17:05:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/manzover/public_html/xiontech.co/post.php on line 113
+[25-Sep-2018 17:05:10 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:05:10 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:05:10 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:05:10 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/utils.php on line 23
+[25-Sep-2018 17:05:10 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/utils.php on line 33
+[25-Sep-2018 17:05:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=''' at line 3 in /home/manzover/public_html/xiontech.co/post.php:131
+Stack trace:
+#0 /home/manzover/public_html/xiontech.co/post.php(131): PDOStatement->execute()
+#1 {main}
+  thrown in /home/manzover/public_html/xiontech.co/post.php on line 131
+[25-Sep-2018 17:05:35 Etc/GMT] PHP Notice:  Undefined index: id in /home/manzover/public_html/xiontech.co/post.php on line 113
+[25-Sep-2018 17:05:35 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:05:35 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:05:35 Etc/GMT] PHP Notice:  Undefined variable: output in /home/manzover/public_html/xiontech.co/post.php on line 118
+[25-Sep-2018 17:05:35 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/utils.php on line 23
+[25-Sep-2018 17:05:35 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/manzover/public_html/xiontech.co/utils.php on line 33
+[25-Sep-2018 17:05:35 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=''' at line 3 in /home/manzover/public_html/xiontech.co/post.php:131
+Stack trace:
+#0 /home/manzover/public_html/xiontech.co/post.php(131): PDOStatement->execute()
+#1 {main}
+  thrown in /home/manzover/public_html/xiontech.co/post.php on line 131
+[25-Sep-2018 17:19:29 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 80
+[25-Sep-2018 17:47:34 Etc/GMT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/manzover/public_html/xiontech.co/postCategoria.php on line 53
+[25-Sep-2018 17:49:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 97
+[25-Sep-2018 19:19:06 Etc/GMT] PHP Parse error:  syntax error, unexpected 'selCategory' (T_STRING), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 74
+[25-Sep-2018 19:19:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '$cliente' (T_VARIABLE), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 80
+[25-Sep-2018 19:31:58 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 71
+[25-Sep-2018 19:33:39 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 71
+[25-Sep-2018 19:36:03 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 73
+[25-Sep-2018 19:37:01 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 79
+[25-Sep-2018 19:37:11 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 79
+[25-Sep-2018 19:37:13 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 79
+[25-Sep-2018 19:38:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70
+[25-Sep-2018 19:43:49 Etc/GMT] PHP Parse error:  syntax error, unexpected ''+p);' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 50
+[25-Sep-2018 19:45:34 Etc/GMT] PHP Notice:  Undefined variable: idPesca in /home/manzover/public_html/xiontech.co/postCategoria.php on line 80
+[25-Sep-2018 19:45:34 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 95
+[25-Sep-2018 19:46:21 Etc/GMT] PHP Notice:  Undefined variable: idPesca in /home/manzover/public_html/xiontech.co/postCategoria.php on line 91
+[25-Sep-2018 19:46:21 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 100
+[25-Sep-2018 19:47:46 Etc/GMT] PHP Notice:  Undefined variable: idPesca in /home/manzover/public_html/xiontech.co/postCategoria.php on line 91
+[25-Sep-2018 19:47:46 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 100
+[25-Sep-2018 19:47:52 Etc/GMT] PHP Notice:  Undefined variable: idPesca in /home/manzover/public_html/xiontech.co/postCategoria.php on line 91
+[25-Sep-2018 19:47:52 Etc/GMT] PHP Notice:  Undefined index: selCategory in /home/manzover/public_html/xiontech.co/postCategoria.php on line 100
+[25-Sep-2018 20:14:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70
+[25-Sep-2018 20:47:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '"click seelect"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 65
+[25-Sep-2018 20:49:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70
+[25-Sep-2018 20:50:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70
+[25-Sep-2018 20:50:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70
+[25-Sep-2018 20:51:38 Etc/GMT] PHP Parse error:  syntax error, unexpected ''click option'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70
+[25-Sep-2018 20:51:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ''click option'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/manzover/public_html/xiontech.co/postCategoria.php on line 70

@@ -33,7 +33,7 @@ $db = mysqli_select_db( $conexion, $basededatos)or die ('No se ha podido generar
 
  
 
- echo('AQUI VOY');
+
 
 
 
@@ -73,6 +73,34 @@ $db = mysqli_select_db( $conexion, $basededatos)or die ('No se ha podido generar
 
 
  echo '</table>';
+
+
+
+ 
+   $cliente = curl_init();
+   curl_setopt($cliente, CURLOPT_URL, "http://www.xiontech.co/category.php");
+   curl_setopt($cliente, CURLOPT_CUSTOMREQUEST, "GET"); 
+   curl_setopt($cliente, CURLOPT_RETURNTRANSFER, true);
+   $data=curl_exec($cliente);
+   curl_close($cliente);
+   $miarray = json_decode($data); 
+    
+    echo("<br>");
+    echo("<h1>estas son las categorias</h1>");
+$contador=0; 
+
+foreach($miarray as $obj){
+    $categoria = $obj -> category;
+    echo "esta es la categoria:".$categoria."<br> ";
+    echo "" ;
+}
+    
+
+ 
+
+
+
+
 
 
 
